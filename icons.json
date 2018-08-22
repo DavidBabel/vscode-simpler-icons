@@ -996,7 +996,7 @@
 		"tasks.json": "_f_visualstudiocode",
 		"jsconfig.json": "_f_visualstudiocode",
 		"tsconfig.json": "_f_visualstudiocode",
-		"travis.yml": "_f_travis",
+		".travis.yml": "_f_travis",
 		"webpack.js": "_f_webpack",
 		"webpack.ts": "_f_webpack",
 		"webpack.config.js": "_f_webpack",
