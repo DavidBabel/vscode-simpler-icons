@@ -30,6 +30,9 @@ after_success:
 - npm install -g vsce;
 - vsce package;
 
+before_deploy:
+- npm --no-git-tag-version version `git describe --tags` 2>/dev/null || true
+
 deploy:
 - provider: releases
   api_key:
