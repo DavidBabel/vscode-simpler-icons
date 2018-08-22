@@ -9,7 +9,8 @@
 	},
 	"scripts": {
 		"patch": "vsce publish patch",
-		"icons": "imagemin icons/* --out-dir=icons"
+		"icons": "imagemin icons/* --out-dir=icons",
+		"test": "exit 0"
 	},
 	"categories": [
 		"Other",
