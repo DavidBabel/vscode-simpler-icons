@@ -1,57 +1,53 @@
 {
-    "name": "vscode-simpler-icons",
-    "displayName": "VSCode simpler Icons with Angular",
-    "description": "A fork from vscode-great-icons. With fewer different icons and some angular icons. Mainly created for personnal use.",
-    "version": "1.6.0",
-    "publisher": "davidbabel",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "scripts": {
-        "patch": "vsce publish patch",
-        "icons": "imagemin icons/* --out-dir=icons"
-    },
-    "categories": [
-        "Other",
-        "Themes"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vscode-simpler-icons",
-                "label": "VSCode simpler Icons",
-                "path": "./icons.json"
-            }
-        ]
-    },
-    "icon": "images/vscode-simpler-icons_icon.png",
-    "galleryBanner": {
-        "color": "#e0e0e0",
-        "theme": "light"
-    },
-    "keywords": [
-        "angular",
-        "icons",
-        "theme",
-        "icon-theme",
-        "customization"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/DavidBabel/vscode-simpler-icons.git"
-    },
-    "author": {
-        "email": "babel.david@gmail.com",
-        "name": "David Babel",
-        "url": ""
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/DavidBabel/vscode-simpler-icons/issues"
-    },
-    "homepage": "https://github.com/DavidBabel/vscode-simpler-icons#readme",
-    "devDependencies": {
-        "imagemin-cli": "^3.0.0",
-        "vsce": "^1.39.0"
-    }
+	"name": "vscode-simpler-icons",
+	"displayName": "VSCode simpler Icons with Angular",
+	"description": "A fork from vscode-great-icons. With fewer different icons and some angular icons. Mainly created for personnal use.",
+	"version": "1.6.0",
+	"publisher": "davidbabel",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"scripts": {
+		"patch": "vsce publish patch",
+		"icons": "imagemin icons/* --out-dir=icons"
+	},
+	"categories": [
+		"Other",
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vscode-simpler-icons",
+				"label": "VSCode simpler Icons",
+				"path": "./icons.json"
+			}
+		]
+	},
+	"icon": "images/vscode-simpler-icons_icon.png",
+	"galleryBanner": {
+		"color": "#e0e0e0",
+		"theme": "light"
+	},
+	"keywords": [
+		"angular",
+		"icons",
+		"theme",
+		"icon-theme",
+		"customization"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DavidBabel/vscode-simpler-icons.git"
+	},
+	"author": {
+		"email": "babel.david@gmail.com",
+		"name": "David Babel",
+		"url": ""
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/DavidBabel/vscode-simpler-icons/issues"
+	},
+	"homepage": "https://github.com/DavidBabel/vscode-simpler-icons#readme"
 }
