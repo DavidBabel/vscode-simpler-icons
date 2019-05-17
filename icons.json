@@ -843,7 +843,7 @@
 		"todo": "_f_todo",
 		"twig": "_f_mustache",
 		"ts": "_f_typescript",
-		"vue": "_f_mustache",
+		"vue": "_f_vue",
 		"vscodeignore": "_f_visualstudiocode",
 		"xml": "_f_source",
 		"axml": "_f_source",
