@@ -957,6 +957,10 @@
 		"di": "_f_d"
 	},
 	"fileNames": {
+		"Welcome": "_custom_welcome_md",
+		"Guide": "_custom_guide_md",
+		"Status": "_custom_status_md",
+		"Starting": "_custom_starting_i18n",
 		"Welcome.md": "_custom_welcome_md",
 		"Guide.md": "_custom_guide_md",
 		"Status.md": "_custom_status_md",
