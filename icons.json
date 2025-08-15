@@ -1,6 +1,18 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
+		"_custom_welcome_md": {
+			"iconPath": "./icons/custom/hand.png"
+		},
+		"_custom_guide_md": {
+			"iconPath": "./icons/custom/guide.png"
+		},
+		"_custom_status_md": {
+			"iconPath": "./icons/custom/hp.png"
+		},
+		"_custom_starting_i18n": {
+			"iconPath": "./icons/custom/play.png"
+		},
 		"_file": {
 			"iconPath": "./icons/file.png"
 		},
@@ -752,6 +764,7 @@
 		"njhtml": "_f_nunjucks",
 		"njk": "_f_nunjucks",
 		"npmignore": "_f_npm",
+		"nvmrc": "_f_node",
 		"ml": "_f_ocaml",
 		"mll": "_f_ocaml",
 		"mli": "_f_ocaml",
@@ -808,6 +821,8 @@
 		"suo": "_f_visualstudio",
 		"slim": "_f_slim",
 		"env": "_f_settings",
+		"example": "_f_settings",
+		"base": "_f_settings",
 		"ini": "_f_settings",
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
@@ -942,6 +957,10 @@
 		"di": "_f_d"
 	},
 	"fileNames": {
+		"Welcome.md": "_custom_welcome_md",
+		"Guide.md": "_custom_guide_md",
+		"Status.md": "_custom_status_md",
+		"Starting.i18n": "_custom_starting_i18n",
 		"androidmanifest.xml": "_f_android",
 		"bower.json": "_f_bower",
 		"brunch-config.js": "_f_brunch",
@@ -951,6 +970,7 @@
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
+		"docker-compose.img.yml": "_f_docker",
 		"docker-compose.dev.yml": "_f_docker",
 		"docker-compose.local.yml": "_f_docker",
 		"docker-compose.test.yml": "_f_docker",
