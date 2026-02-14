@@ -1,4 +1,12 @@
-# VSCode Simpler Icons with angular icons
+# [Deprecated]
+
+🛑 This theme is **deprecated** in and replaced by :<br>
+
+### 🚀 [antigravity-icons-supercharged](https://marketplace.visualstudio.com/items?itemName=davidbabel.antigravity-icons-supercharged-blue) ⭐<br>
+
+Trust me, you might love it ❤️😊
+
+## VSCode Simpler Icons with angular icons
 
 A simpler icon pack than the big pack of icons vscode-great-icons.
 Personnal icon theme, to group javascript style (typescript, coffee...) into one only icon, css style (less, sass ...) into on only icon etc ...
@@ -137,8 +145,6 @@ Here is Angular work directory preview :
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
-
 ## How to use
 
 After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Simpler Icons`.
-
