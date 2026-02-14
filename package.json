@@ -2,7 +2,7 @@
 	"name": "vscode-simpler-icons",
 	"displayName": "[Deprecated] VSCode simpler Icons with Angular",
 	"description": "[Deprecated] Please Migrate. A fork from vscode-great-icons. With fewer different icons and some angular icons. Mainly created for personnal use.",
-	"version": "1.6.11",
+	"version": "1.6.12",
 	"publisher": "davidbabel",
 	"engines": {
 		"vscode": "^1.6.0"
