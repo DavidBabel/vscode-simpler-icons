@@ -53,5 +53,8 @@
 	"bugs": {
 		"url": "https://github.com/DavidBabel/vscode-simpler-icons/issues"
 	},
-	"homepage": "https://github.com/DavidBabel/vscode-simpler-icons#readme"
+	"homepage": "https://github.com/DavidBabel/vscode-simpler-icons#readme",
+	"dependencies": {
+		"vsce": "^2.15.0"
+	}
 }
