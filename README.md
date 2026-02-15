@@ -1,6 +1,6 @@
 # [Deprecated]
 
-🛑 This theme is **deprecated** in and replaced by :<br>
+🛑 This theme is **deprecated** and replaced by :<br>
 
 ### 🚀 [antigravity-icons-supercharged](https://marketplace.visualstudio.com/items?itemName=davidbabel.antigravity-icons-supercharged-blue) ⭐<br>
 
