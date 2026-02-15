@@ -13,7 +13,8 @@
 		"test": "exit 0"
 	},
 	"extensionDependencies": [
-		"davidbabel.antigravity-icons-supercharged-blue"
+		"davidbabel.antigravity-icons-supercharged-blue",
+		"davidbabel.antigravity-icons-supercharged-gray"
 	],
 	"categories": [
 		"Other",
